@@ -20,7 +20,7 @@ namespace prrr
                 Console.WriteLine("x = " + x);
                 Console.WriteLine("y = " + y);
                 double y1 = x + y;
-                Console.WriteLine("Результат = " + y1);
+                Console.WriteLine("Результ = " + y1);
                 x += 2;
                 y += 2;
             }
